@@ -59,20 +59,20 @@ This project is a comprehensive menu-based Python application that integrates va
 ## Files
 
 - `driver.py`: Main menu-based driver program.
-- `email_task.py`: Functions for sending email messages.
-- `sms_task.py`: Functions for sending SMS messages.
-- `scrape_task.py`: Functions for web scraping.
-- `geo_task.py`: Functions for geo-location.
-- `text_to_audio_task.py`: Functions for text-to-audio conversion.
-- `volume_control_task.py`: Functions for volume control.
-- `mobile_sms_task.py`: Functions for sending SMS from mobile.
-- `bulk_email_task.py`: Functions for sending bulk emails.
-- `data_processing_task.py`: Functions for data processing.
-- `model_integration_task.py`: Functions for ML model integration.
+- `email.py`: Functions for sending email messages.
+- `sms.py`: Functions for sending SMS messages.
+- `scrape.py`: Functions for web scraping.
+- `geolocation.py`: Functions for geo-location.
+- `text_to_audio.py`: Functions for text-to-audio conversion.
+- `volume_control.py`: Functions for volume control.
+- `mobile_sms.py`: Functions for sending SMS from mobile.
+- `bulk_email.py`: Functions for sending bulk emails.
+- `data_processing.py`: Functions for data processing.
+- `model_integration.py`: Functions for ML model integration.
 - `face_crop_task.py`: Functions for face cropping.
-- `image_filters_task.py`: Functions for image filtering.
-- `custom_image_task.py`: Functions for creating custom images.
-- `cool_filters_task.py`: Functions for applying cool image filters.
+- `image_filters.py`: Functions for image filtering.
+- `custom_image.py`: Functions for creating custom images.
+- `cool_filters.py`: Functions for applying cool image filters.
 
 ## Contributing
 
